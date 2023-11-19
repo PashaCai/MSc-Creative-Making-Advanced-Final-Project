@@ -136,9 +136,9 @@ Overall I'm pretty happy with it though, and the next main thing is to get this 
 <img width="70%" src="https://github.com/PashaCai/MSc-Creative-Making-Advanced-Final-Project/blob/main/Picture%20for%20Readme/16.jpg"/>
 <img width="70%" src="https://github.com/PashaCai/MSc-Creative-Making-Advanced-Final-Project/blob/main/Picture%20for%20Readme/17.jpg"/>
 <P>These visuals of the installation were created using AI and ID, and this material was also used on the final installation page.</P>
-<P>This week I also made some dynamic versions of this logo, which was inspired by Glass' (1969) moiré experiment, which I reproduced and used as my logo.
-
-In terms of the name I decided to call it "Order of Disorder", which I like, I used it when I was building the Arduino device, and I think it has an inherent beauty, an order without order, which is very relevant to my theme, but at the same time it has a sense of absurdity to it. There are no absolutes, things change from moment to moment, and order is no exception.</P>
+<P>This week I also made some dynamic versions of this logo, which was inspired by Glass' (1969) moiré experiment, which I reproduced and used as my logo.</P>
+<img width="100%" src="https://github.com/PashaCai/MSc-Creative-Making-Advanced-Final-Project/blob/main/Picture%20for%20Readme/Logo.gif"/>
+<p>In terms of the name I decided to call it "Order of Disorder", which I like, I used it when I was building the Arduino device, and I think it has an inherent beauty, an order without order, which is very relevant to my theme, but at the same time it has a sense of absurdity to it. There are no absolutes, things change from moment to moment, and order is no exception.</P>
 
 
 
