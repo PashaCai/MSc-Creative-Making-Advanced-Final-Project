@@ -96,8 +96,8 @@ At the same time, I was also thinking about the means of interaction. In the fie
 
 During my research I found that moiré has been studied in many experiments, but the way in which it is produced varies.
 Barlow and Berry (2010) took a more systematic approach. They used a specific formula (to generate a random dot pattern and varied the density of the pattern by adjusting the parameters. Glass (1969), however, is more traditional in his approach, where he observes the resulting moiré phenomenon through the more primitive physical means of spraying black particles on white paper, followed by photocopying and rotating and overlapping them on transparent paper in order to generate a random dot matrix.</P>
-<img width="100%" src="https://github.com/PashaCai/MSc-Creative-Making-Advanced-Final-Project/blob/main/Picture%20for%20Readme/6.png"/>
-<img width="100%" src="https://github.com/PashaCai/MSc-Creative-Making-Advanced-Final-Project/blob/main/Picture%20for%20Readme/7.png"/>
+<img width="50%" src="https://github.com/PashaCai/MSc-Creative-Making-Advanced-Final-Project/blob/main/Picture%20for%20Readme/6.png"/>
+<img width="50%" src="https://github.com/PashaCai/MSc-Creative-Making-Advanced-Final-Project/blob/main/Picture%20for%20Readme/7.png"/>
 <p>Upon actual observation I found that the visual effects of the dots produced by Barlow and Berry's (2010) method were not up to my expected standards, and in terms of theoretical construction I preferred to follow the experimental ideas of Glass (1969) but modernise them into an algorithmic form.</p>
 
 
