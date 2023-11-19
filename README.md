@@ -42,13 +42,13 @@ Since I'm doing an Arduino installation on a similar topic in my first semester 
 
 <h4>Week two:</h4>
 <p>The main goal of this week was to brainstorm and do some mind mapping based on a previously identified topic, as well as find some papers related to the topic to use as theoretical support. Here are some drafts on the topic, some of which I had before, and re-reading them gave me an idea of some of my own thoughts at the time, as well as some new ones, though most of these were produced in Chinese for my own convenience.</p>
-<img width="100%" src="https://github.com/PashaCai/MSc-Creative-Making-Advanced-Final-Project/blob/main/Picture%20for%20Readme/12.jpg"/>
-<img width="100%" src="https://github.com/PashaCai/MSc-Creative-Making-Advanced-Final-Project/blob/main/Picture%20for%20Readme/13.jpg"/>
-<img width="100%" src="https://github.com/PashaCai/MSc-Creative-Making-Advanced-Final-Project/blob/main/Picture%20for%20Readme/14.jpg"/>
-<img width="100%" src="https://github.com/PashaCai/MSc-Creative-Making-Advanced-Final-Project/blob/main/Picture%20for%20Readme/23.jpg"/>
-<img width="100%" src="https://github.com/PashaCai/MSc-Creative-Making-Advanced-Final-Project/blob/main/Picture%20for%20Readme/24.jpg"/>
-<img width="100%" src="https://github.com/PashaCai/MSc-Creative-Making-Advanced-Final-Project/blob/main/Picture%20for%20Readme/25.jpg"/>
-<img width="100%" src="https://github.com/PashaCai/MSc-Creative-Making-Advanced-Final-Project/blob/main/Picture%20for%20Readme/26.jpg"/>
+<img width="70%" src="https://github.com/PashaCai/MSc-Creative-Making-Advanced-Final-Project/blob/main/Picture%20for%20Readme/12.jpg"/>
+<img width="70%" src="https://github.com/PashaCai/MSc-Creative-Making-Advanced-Final-Project/blob/main/Picture%20for%20Readme/13.jpg"/>
+<img width="70%" src="https://github.com/PashaCai/MSc-Creative-Making-Advanced-Final-Project/blob/main/Picture%20for%20Readme/14.jpg"/>
+<img width="70%" src="https://github.com/PashaCai/MSc-Creative-Making-Advanced-Final-Project/blob/main/Picture%20for%20Readme/23.jpg"/>
+<img width="70%" src="https://github.com/PashaCai/MSc-Creative-Making-Advanced-Final-Project/blob/main/Picture%20for%20Readme/24.jpg"/>
+<img width="70%" src="https://github.com/PashaCai/MSc-Creative-Making-Advanced-Final-Project/blob/main/Picture%20for%20Readme/25.jpg"/>
+<img width="70%" src="https://github.com/PashaCai/MSc-Creative-Making-Advanced-Final-Project/blob/main/Picture%20for%20Readme/26.jpg"/>
 <p>In the meantime, based on the Arduino research, I'm no longer limited to Glass' (1969) "Moiré Effect from Random Dots", but I want to go deeper, and explore some of the principles behind the birth of moiré as a visual phenomenon, the so-called "visual order", and why it came about. I need to find some articles about this concept, which may involve biology.
 
 Here I found a little trick, Glass (1969) "Moiré Effect from Random Dots" is included in PMC, so I just need to check who has cited this article, and then I can harvest relevant articles to check, this method works very well and saves me a lot of time. This method is very useful and saves me a lot of time.
@@ -57,7 +57,7 @@ This week I looked at the article on the formation and interpretation of moire p
 
 <h4>Week Three:</h4>
 <p>Off to Spain for a week this week whilst getting ready to pack my bags for a trip back to my home country, having been away for a year. I have to say Madrid is a really nice place, very laid back, except for the temperatures which are a bit high, also a few of the museums in Madrid are well worth a visit, the collections are extensive and good for the mind.</p>
-<img width="100%" src="https://github.com/PashaCai/MSc-Creative-Making-Advanced-Final-Project/blob/main/Picture%20for%20Readme/22.jpg"/>
+<img width="70%" src="https://github.com/PashaCai/MSc-Creative-Making-Advanced-Final-Project/blob/main/Picture%20for%20Readme/22.jpg"/>
 
 <h4>Week Four:</h4>
 <p>To be honest, these weeks are not quite able to bring up the energy, on the one hand, the weather is too hot, on the other hand is back to a long time ago, there are a lot of things need to deal with the hometown, I think it is more ridiculous in China is that if you do not have the relevant professional work experience before graduation, then you can not find a better job at graduation, because of this I intend to look for an internship related to graphic design, but this is all beside the point. But that's all beside the point, it's a blog so it's okay to talk about it.
@@ -89,11 +89,16 @@ So I would like to say, should I take this graduation design as an experiment fo
 
 To be honest, I thought about it, and after looking at some examples of device design, I think I should choose a device for my final project, but what is the subject matter is a big question, so I want to go back to my field: "Graphics", let's go back to the moiré, and think about it as the subject matter. Let's go back to the moiré and think about it as a subject, and let's think about how to realise this installation.</P>
 
+<h3>September</h3>
+<P>Continuing my thinking from the previous week, now that the theoretical basis and related research have been more adequate, I need to shift my focus to practice, and keep a more minimalist feeling in the overall design style, because after a lot of research I found that an overly complex display may affect the effect of visual attention, so I need to make certain trade-offs in the overall style.
 
+At the same time, I was also thinking about the means of interaction. In the field of interactive device design, the variety of means of interaction makes it difficult to accurately measure its advantages and disadvantages. However, the most appropriate means of interaction must be compatible with the tone of the work. So I chose to think about the main element of the installation, as I said I wanted to go back to the "graphic", so the moiré pattern undoubtedly became the key for me to think again.
 
-
-
-
+During my research I found that moiré has been studied in many experiments, but the way in which it is produced varies.
+Barlow and Berry (2010) took a more systematic approach. They used a specific formula (to generate a random dot pattern and varied the density of the pattern by adjusting the parameters. Glass (1969), however, is more traditional in his approach, where he observes the resulting moiré phenomenon through the more primitive physical means of spraying black particles on white paper, followed by photocopying and rotating and overlapping them on transparent paper in order to generate a random dot matrix.</P>
+<img width="100%" src="https://github.com/PashaCai/MSc-Creative-Making-Advanced-Final-Project/blob/main/Picture%20for%20Readme/6.png"/>
+<img width="100%" src="https://github.com/PashaCai/MSc-Creative-Making-Advanced-Final-Project/blob/main/Picture%20for%20Readme/7.png"/>
+<p>Upon actual observation I found that the visual effects of the dots produced by Barlow and Berry's (2010) method were not up to my expected standards, and in terms of theoretical construction I preferred to follow the experimental ideas of Glass (1969) but modernise them into an algorithmic form.</p>
 
 
 
