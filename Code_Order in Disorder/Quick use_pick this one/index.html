@@ -84,12 +84,12 @@
         particleGraph.startGraph(10000, spread);
     }
     function spread() {
-        // 设置0.5秒后开始扩散
+        // 设置0.5秒后开始扩散 Spreading starts after 0.5 seconds of setting
         setTimeout(() => {
             particleGraph.spread(450, fadeInLogo);
         }, 500);
     }
-    //旋转角度6.5转为弧度
+    //旋转角度6.5转为弧度 Rotation angle 6.5 to radians
     let theta = 6.5 * (Math.PI / 180);
     function fadeInLogo() {
         particleGraph.fadeInLogo(rotate);
@@ -110,7 +110,7 @@
         oA.href = url;
         document.body.appendChild(oA);
         oA.click();
-        oA.remove(); // 下载之后把创建的元素删除
+        oA.remove(); // 下载之后把创建的元素删除 Delete the created elements after downloading
     }
 </script>
 </body>
