@@ -122,7 +122,8 @@ Considering the various scenarios, keyboard-mouse interactions demonstrate uniqu
 
 Based on the above considerations, a keyboard and mouse were chosen as the main interaction method for the device in order to maximise control.</P>
 
-
+<h4>Week Four:</h4>
+<P>Most of this week has been spent packing up and preparing to return to the UK, but there has been some thought about the installation this week, I wondered if it would be possible to upload the installation to a web page, via server software such as nginx, whilst overall stylistically I would like to do something minimalist, which would be less intrusive in terms of extra elements and guidance, and would allow for the results of the experience to be presented in a more natural way.</P>
 
 
 
