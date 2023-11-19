@@ -90,6 +90,7 @@ So I would like to say, should I take this graduation design as an experiment fo
 To be honest, I thought about it, and after looking at some examples of device design, I think I should choose a device for my final project, but what is the subject matter is a big question, so I want to go back to my field: "Graphics", let's go back to the moiré, and think about it as the subject matter. Let's go back to the moiré and think about it as a subject, and let's think about how to realise this installation.</P>
 
 <h3>September</h3>
+<h4>Week one:</h4>
 <P>Continuing my thinking from the previous week, now that the theoretical basis and related research have been more adequate, I need to shift my focus to practice, and keep a more minimalist feeling in the overall design style, because after a lot of research I found that an overly complex display may affect the effect of visual attention, so I need to make certain trade-offs in the overall style.
 
 At the same time, I was also thinking about the means of interaction. In the field of interactive device design, the variety of means of interaction makes it difficult to accurately measure its advantages and disadvantages. However, the most appropriate means of interaction must be compatible with the tone of the work. So I chose to think about the main element of the installation, as I said I wanted to go back to the "graphic", so the moiré pattern undoubtedly became the key for me to think again.
@@ -97,8 +98,37 @@ At the same time, I was also thinking about the means of interaction. In the fie
 During my research I found that moiré has been studied in many experiments, but the way in which it is produced varies.
 Barlow and Berry (2010) took a more systematic approach. They used a specific formula (to generate a random dot pattern and varied the density of the pattern by adjusting the parameters. Glass (1969), however, is more traditional in his approach, where he observes the resulting moiré phenomenon through the more primitive physical means of spraying black particles on white paper, followed by photocopying and rotating and overlapping them on transparent paper in order to generate a random dot matrix.</P>
 <img width="50%" src="https://github.com/PashaCai/MSc-Creative-Making-Advanced-Final-Project/blob/main/Picture%20for%20Readme/6.png"/>
-<img width="50%" src="https://github.com/PashaCai/MSc-Creative-Making-Advanced-Final-Project/blob/main/Picture%20for%20Readme/7.png"/>
+<img width="50%" src="https://github.com/PashaCai/MSc-Creative-Making-Advanced-Final-Project/blob/main/Picture%20for%20Readme/7.jpg"/>
 <p>Upon actual observation I found that the visual effects of the dots produced by Barlow and Berry's (2010) method were not up to my expected standards, and in terms of theoretical construction I preferred to follow the experimental ideas of Glass (1969) but modernise them into an algorithmic form.</p>
+
+<h4>Week two:</h4>
+<P>Based on what I identified last week I needed to start thinking about how to go about generating these dots, and I initially thought TouchDrsignrt would be a good choice as well as a good thing to try as I've never used it before. But while actually working on it I realised that it wasn't as convenient as I thought it would be, although generating the examples and rotating them was really quick and easy I still couldn't work out how to generate two layers of examples and have only the top layer rotated.
+
+So I thought about what we learnt at Coding_One about JavaScript and the <canvas> canvas, which might be a good way to do it.
+But here comes the headache. How am I supposed to generate and manipulate these dots in Js? I thought I'd stop thinking about manipulating them for a while and concentrate on generating them, so I turned to learning about the joint distribution of continuous random vector transforms, and I have to say that ChatGPT is really useful in this case, as it can help you find exactly the tutorials or the content you need.</P>
+<img width="70%" src="https://github.com/PashaCai/MSc-Creative-Making-Advanced-Final-Project/blob/main/Picture%20for%20Readme/8.png"/>
+<P>The content on this chart relates to probability theory and transformations of random variables. Basically, what is depicted here is a transformation from polar to Cartesian coordinates, and the probability distribution under this transformation is examined.</P>
+
+<h4>Week Three:</h4>
+<p>After the last week I've made some initial gains, I've tried to generate some dots and while there are still some issues, it did work. So before taking the next step I wanted to think about how I was manipulating them.</p>
+<img width="70%" src="https://github.com/PashaCai/MSc-Creative-Making-Advanced-Final-Project/blob/main/Picture%20for%20Readme/11.png"/>
+<P>In terms of specific interactions, touch and joystick interactions complement the concept of rotary manipulation.
+
+Touch interaction, with the advantage of being intuitive and fast, is controlled by the user's direct touch, which requires us to fine-tune the interaction experience of the device, especially in terms of comfort, although this may have an impact on the overall logic of the device.
+
+In contrast, joystick interaction presents a simpler logic, where the user only needs to rotate the joystick to interact with the interface. However, joystick interaction has inherent limitations, for example, the limited operating range of the joystick does not provide fast and accurate positioning, and the vectorial information output from the joystick is not sufficiently precise to locate the target compared to a mouse. In addition, joysticks cannot select options outside of the interaction interface, and their cursors may cause abrupt jumps during sliding.
+
+Considering the various scenarios, keyboard-mouse interactions demonstrate unique advantages on several levels. While the keyboard is similar to the joystick in terms of operability, the introduction of the mouse greatly expands the level and efficiency of the interface. The hovering feature of the mouse allows the user to break directly through the interface hierarchy and achieve rapid positioning, which is unmatched by the joystick in terms of speed. The precision and speed of the mouse further transforms the entire display area into a potential interactive space, where a large amount of information and interactive elements can be displayed unobstructed. The precision of the mouse reduces the likelihood of mis-touching, allowing the interactive elements to be designed more finely, thus increasing the density of the information displayed. Hovering the mouse cursor is equivalent to adding a new level of interaction, allowing auxiliary information, such as prop details, to be hidden, further optimising the content of the interface.
+
+Based on the above considerations, a keyboard and mouse were chosen as the main interaction method for the device in order to maximise control.</P>
+
+
+
+
+
+
+
+
 
 
 
