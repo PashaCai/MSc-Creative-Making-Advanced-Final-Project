@@ -125,6 +125,21 @@ Based on the above considerations, a keyboard and mouse were chosen as the main 
 <h4>Week Four:</h4>
 <P>Most of this week has been spent packing up and preparing to return to the UK, but there has been some thought about the installation this week, I wondered if it would be possible to upload the installation to a web page, via server software such as nginx, whilst overall stylistically I would like to do something minimalist, which would be less intrusive in terms of extra elements and guidance, and would allow for the results of the experience to be presented in a more natural way.</P>
 
+<h3>October</h3>
+<h4>Week one:</h4>
+<p>Returned to the UK this week to prepare for my final term. In my free time this week I created the overall visual style of this installation, I've actually done something similar before so used some previous material which made my progress a little quicker. The overall style is rather simple, mainly because I wanted to minimise the distraction of extra elements and guidance.
+
+Overall I'm pretty happy with it though, and the next main thing is to get this web-based interactive installation roughly finished, and it's time to prepare some of the dissertation side of things.</p>
+<img width="70%" src="https://github.com/PashaCai/MSc-Creative-Making-Advanced-Final-Project/blob/main/Picture%20for%20Readme/19.png"/>
+<img width="70%" src="https://github.com/PashaCai/MSc-Creative-Making-Advanced-Final-Project/blob/main/Picture%20for%20Readme/18.png"/>
+<img width="70%" src="https://github.com/PashaCai/MSc-Creative-Making-Advanced-Final-Project/blob/main/Picture%20for%20Readme/15.jpg"/>
+<img width="70%" src="https://github.com/PashaCai/MSc-Creative-Making-Advanced-Final-Project/blob/main/Picture%20for%20Readme/16.jpg"/>
+<img width="70%" src="https://github.com/PashaCai/MSc-Creative-Making-Advanced-Final-Project/blob/main/Picture%20for%20Readme/17.jpg"/>
+
+
+
+
+
 
 
 
