@@ -1,12 +1,24 @@
 # MSc-Creative-Making-Advanced-Final-Project-Order in Disorder
 Code_Blog_Essay for MSc Creative Making: Advanced Final Project
-<h2>Experiences</h2>
+<h2>Instructions for use</h2>
 To experience this web-based interactive installation, you need to download Code_Order in Disorder.
 <img width="100%" src="https://github.com/PashaCai/MSc-Creative-Making-Advanced-Final-Project/blob/main/Picture%20for%20Readme/28.png"/>
 After downloading, unzip the file and get these two folders, I recommend using the one marked in red, the other is to publish the web page to the local server to use, the purpose is to solve the problem of images can not be downloaded.
 <img width="100%" src="https://github.com/PashaCai/MSc-Creative-Making-Advanced-Final-Project/blob/main/Picture%20for%20Readme/30.png"/>
-
-
+<h3>Quick use</h3>
+After opening the folder, click on the places marked in red in the picture to use it, it is better to open the browser in advance and put it to the maximum before using it.
+<img width="100%" src="https://github.com/PashaCai/MSc-Creative-Making-Advanced-Final-Project/blob/main/Picture%20for%20Readme/32.png"/>
+<h3>Accessed using a URL</h3>
+If you want to use it in this way, please download the local server version, and at the same time, make sure that port 80 is not occupied in the command prompt through the command netstat -aon | findstr "80", then start Nginx, and finally access the web page through the URL: http://localhost.
+<img width="100%" src="https://github.com/PashaCai/MSc-Creative-Making-Advanced-Final-Project/blob/main/Picture%20for%20Readme/27.png"/>
+<img width="100%" src="https://github.com/PashaCai/MSc-Creative-Making-Advanced-Final-Project/blob/main/Picture%20for%20Readme/33.png"/>
+<h3>How to use this page？</h3>
+When you start this page you will come to this page with an animation, then click on the section marked in red.
+<img width="100%" src="https://github.com/PashaCai/MSc-Creative-Making-Advanced-Final-Project/blob/main/Picture%20for%20Readme/34.png"/>
+Next as the dots are generated you will come to the main page, at this point you just need to mouse over the red area and rotate it by dragging and dropping with the left mouse button.
+<img width="100%" src="https://github.com/PashaCai/MSc-Creative-Making-Advanced-Final-Project/blob/main/Picture%20for%20Readme/35.png"/>
+Finally, when the pattern produces a change, you can download a png version of the image by clicking the download button above.
+<img width="100%" src="https://github.com/PashaCai/MSc-Creative-Making-Advanced-Final-Project/blob/main/Picture%20for%20Readme/36.png"/>
 <h2>Blog</h2>
 <h3>Introduction</h3>
 <p>If to someone had said to me before, "You'll learn about code and physical installations later on and use those things in your art installations." I would have laughed, I always felt I was a staunch advocate of traditional media and all the graphic work I did as an undergraduate made me embrace that idea even more, I never wanted to get out of that comfort zone. But one day when I realised the limitations of traditional media, I wanted to change. I wanted my work to be more interactive with the viewer, to communicate my ideas to the greatest extent possible, which traditional media could do in part, but as I learned more and more, I felt more and more powerless, so I turned from studying design to art, and then to what was 'beautiful'. But design, art and beauty all need a vehicle, a vehicle for diversity, and so I came to CCI.
