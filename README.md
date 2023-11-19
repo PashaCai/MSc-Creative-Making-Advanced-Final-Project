@@ -41,14 +41,19 @@ I believe that order itself is always a selective attention to disorder, and due
 Since I'm doing an Arduino installation on a similar topic in my first semester Arduino class, I still have some personal opinions on the topic, and all I need to do now is to go deeper into these concepts, find the appropriate theories to back them up, and think about the form of the final product. (At this point I don't realise how difficult this theme is :( , To watch this Arduino installation visit the link:https://www.dropbox.com/scl/fi/z4dzxcl2g8fvgtmwbgsbw/Physical-Computing-Project-Blog.paper?rlkey=v7cibfrw31qbncwknq5ttmznj&dl=0 )</p>
 
 <h4>Week two:</h4>
+<p>The main goal of this week was to brainstorm and do some mind mapping based on a previously identified topic, as well as find some papers related to the topic to use as theoretical support. Here are some drafts on the topic, some of which I had before, and re-reading them gave me an idea of some of my own thoughts at the time, as well as some new ones, though most of these were produced in Chinese for my own convenience.</p>
+<img width="100%" src="https://github.com/PashaCai/MSc-Creative-Making-Advanced-Final-Project/blob/main/Picture%20for%20Readme/12.jpg"/>
+<img width="100%" src="https://github.com/PashaCai/MSc-Creative-Making-Advanced-Final-Project/blob/main/Picture%20for%20Readme/13.jpg"/>
+<img width="100%" src="https://github.com/PashaCai/MSc-Creative-Making-Advanced-Final-Project/blob/main/Picture%20for%20Readme/14.jpg"/>
+<img width="100%" src="https://github.com/PashaCai/MSc-Creative-Making-Advanced-Final-Project/blob/main/Picture%20for%20Readme/23.jpg"/>
+<img width="100%" src="https://github.com/PashaCai/MSc-Creative-Making-Advanced-Final-Project/blob/main/Picture%20for%20Readme/24.jpg"/>
+<img width="100%" src="https://github.com/PashaCai/MSc-Creative-Making-Advanced-Final-Project/blob/main/Picture%20for%20Readme/25.jpg"/>
+<img width="100%" src="https://github.com/PashaCai/MSc-Creative-Making-Advanced-Final-Project/blob/main/Picture%20for%20Readme/26.jpg"/>
+<p>In the meantime, based on the Arduino research, I'm no longer limited to Glass' (1969) "Moiré Effect from Random Dots", but I want to go deeper, and explore some of the principles behind the birth of moiré as a visual phenomenon, the so-called "visual order", and why it came about. I need to find some articles about this concept, which may involve biology.
 
+Here I found a little trick, Glass (1969) "Moiré Effect from Random Dots" is included in PMC, so I just need to check who has cited this article, and then I can harvest relevant articles to check, this method works very well and saves me a lot of time. This method is very useful and saves me a lot of time.
 
-
-
-
-
-
-
+This week I looked at the article on the formation and interpretation of moire patterns by Olof Bryngdahl (1974), and to be honest, there was a lot of stuff in there related to optics, photonics, etc. that was a bit of a mystery to me, so maybe I should try a different direction.</p>
 
 
 
