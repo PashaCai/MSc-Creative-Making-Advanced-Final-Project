@@ -145,6 +145,45 @@ Overall I'm pretty happy with it though, and the next main thing is to get this 
 <p>This fortnight I want to talk about it together, this fortnight's time are basically consumed in the production of this device, in fact, to be honest, rather than a device, rather than an interactive web page haha, after all, the device is just a carrier of it, the implementation of this matrix really took me a lot of effort, I use the <canvas> element combined with the JavaScript class to achieve the generation and control of interactive particles. The particle generation process consists of the following key steps: initially determine the total number of particles and the radius of the canvas (i.e. this.num and this.canvasR). For each particle, a random radius is generated using the getRandomRadius function, which extracts a smooth weighted random number based on the SmoothWeightRoundRobin algorithm to determine the particle size. This algorithm ensures that the particle sizes are varied and remain within a predetermined distribution. Next, the randomPoint function randomly determines the coordinates (x, y) of the particles based on the centre point of the canvas and its radius, using a polar to Cartesian coordinate system. Eventually, these coordinates and other parameters (e.g. colour, centre coordinates) are used to instantiate the Particle class and the resulting particle instances are stored in the this.spreads array.
 
 Finally the pre-set Js file is called in the combined Html to enable the generation of the dots, and some functionality is added to increase the spreading effect of the dots, and to add my Logo to this main web page.</p>
+<img width="70%" src="https://github.com/PashaCai/MSc-Creative-Making-Advanced-Final-Project/blob/main/Picture%20for%20Readme/1.png"/>
+<p>To be honest the whole process is really difficult, especially in the dot matrix generation of this board, initially due to a variety of problems, such as the number of particles generated too much (to be honest, my desktop configuration is considered to be relatively high i7-12700; 3090ti; 32G 6400 RAM strips, which is the first time that I felt the limits of the computer, when the number of particles generated is too much resulting in the computer directly jammed) or particles can not be controlled, so that I crashed many times, but in the end I learnt a lot of knowledge, I am very grateful to those who have helped me in this board students and teachers.</p>
+
+<h4>Week Four:</h4>
+<P>This week I've been working on adding some extra features to what I've done before, such as downloading the generated images, adjusting the generation time and speed of the dot matrix, resizing the overall UI, and so on, which is a bit of a chore. Meanwhile, I also tried to use Nginx to upload my web pages this week, but it took a long time because of the port occupancy problem, but in the end it was quite successful (in fact, it's just deploying a server locally, and the web pages are published to the local server, and then opened through the url).
+<img width="70%" src="https://github.com/PashaCai/MSc-Creative-Making-Advanced-Final-Project/blob/main/Picture%20for%20Readme/3.jpg"/>
+<img width="70%" src="https://github.com/PashaCai/MSc-Creative-Making-Advanced-Final-Project/blob/main/Picture%20for%20Readme/4.jpg"/>
+Of course, this week also began the writing of the paper, I think that due to the previous period of study, the writing of the paper is still relatively smooth, because the articles I read before impressed me (because it is too difficult to understand, to be honest, a lot of concepts are seemingly understandable). This week, I mainly wrote the overview and introduction and organised those articles I had read before, which I need to use in my dissertation.</P>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
