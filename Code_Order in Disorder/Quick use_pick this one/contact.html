@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="css/amazeui.css"/>
+    <style>
+        html,
+        body {
+            overflow: hidden;
+            height: 100%;
+            width: 100%;
+            padding: 0;
+            margin: 0;
+            background-color: #EBE8D9;
+        }
+        @font-face {
+            font-family: ARLRDBD;
+            src: url("./font/ARLRDBD.TTF") format("truetype");
+        }
+        a {
+            color: black;
+        }
+        .container {
+            height: 100%;
+            width: 100%;
+            background-image: url("./images/contact-bg.png");
+            background-size: 100% 100%;
+            background-repeat: no-repeat;
+            background-position: right bottom;
+        }
+        .return-btn {
+            position: fixed;
+            top: 15px;
+            right: 20px;
+        }
+        .return-btn img {
+            width: 35px;
+        }
+        .contact-with-me {
+            position: fixed;
+            top: 15px;
+            left: 25px;
+        }
+        .contact-with-me img {
+            width: 60%;
+        }
+    </style>
+</head>
+<body>
+<div class="container">
+    <div class="contact-with-me">
+        <img src="images/contact-with-me.png">
+    </div>
+</div>
+<div class="return-btn">
+    <a href="javascript:window.history.go(-1);"><img src="images/return.png"></a>
+</div>
+</body>
+</html>

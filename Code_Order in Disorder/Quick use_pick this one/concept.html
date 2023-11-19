@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="css/amazeui.css"/>
+    <style>
+        html,
+        body {
+            overflow: hidden;
+            height: 100%;
+            width: 100%;
+            padding: 0;
+            margin: 0;
+            background-color: #EBE8D9;
+        }
+        @font-face {
+            font-family: ARLRDBD;
+            src: url("./font/ARLRDBD.TTF") format("truetype");
+        }
+        .navigation {
+            position: absolute;
+            width: 100%;
+            padding-bottom: 8px;
+            padding-top: 8px;
+            box-shadow:0px 3px 2px -1px #888888;
+            z-index: 9999;
+            background-color: #EBE8D9;
+            font-family: ARLRDBD;
+        }
+        .navigation p {
+            text-align: center;
+            font-size: 22px;
+            margin-bottom: 0px;
+            line-height: 50px;
+            cursor: pointer;
+        }
+        .navigation-item {
+            list-style: none;
+            margin-bottom: 0;
+            text-align: right;
+        }
+        .navigation-item li{
+            display: inline;
+            font-size: 20px;
+            padding:0 20px;
+            line-height: 50px;
+        }
+        .container {
+            height: 100%;
+            width: 100%;
+            background-image: url("./images/concept-left.png");
+            background-size: auto 100%;
+            background-repeat: no-repeat;
+        }
+        .container .am-g,
+        .container .am-g .am-u-md-6 {
+            height: 100%;
+        }
+        .container .am-u-md-6 img{
+            width: auto;
+            height: 50%;
+            margin-top: 25%;
+            margin-left: 10%;
+        }
+        .return-btn {
+            position: fixed;
+            bottom: 30px;
+            right: 30px;
+        }
+        .return-btn img {
+            width: 35px;
+        }
+        a {
+            color: black;
+        }
+    </style>
+</head>
+<body>
+<div class="navigation" id="navigation">
+    <div class="am-g">
+        <div class="am-u-md-4">
+            <img src="images/logo2.png" width="50px">
+            <img src="images/logo.png" width="50px">
+        </div>
+        <div class="am-u-md-4">&nbsp;</div>
+        <div class="am-u-md-4">
+            <ul class="navigation-item">
+                <li><a href="concept.html">Concept</a></li>
+            </ul>
+        </div>
+    </div>
+</div>
+<div class="container">
+    <div class="am-g">
+        <div class="am-u-md-6">
+        </div>
+        <div class="am-u-md-6">
+            <img src="images/concept-right.png">
+        </div>
+    </div>
+</div>
+<div class="return-btn">
+    <a href="javascript:window.history.go(-1);"><img src="images/return.png"></a>
+</div>
+</body>
+</html>

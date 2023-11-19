@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="css/amazeui.css"/>
+    <style>
+        html,
+        body {
+            overflow: hidden;
+            height: 100%;
+            width: 100%;
+            padding: 0;
+            margin: 0;
+            background-color: #EBE8D9;
+        }
+        a {
+            color: black;
+        }
+        @font-face {
+            font-family: ARLRDBD;
+            src: url("./font/ARLRDBD.TTF") format("truetype");
+        }
+        .navigation {
+            opacity: 0;
+            position: absolute;
+            width: 100%;
+            padding-bottom: 8px;
+            padding-top: 8px;
+            box-shadow:0px 3px 2px -1px #888888;
+            z-index: 9999;
+            background-color: #EBE8D9;
+            font-family: ARLRDBD;
+        }
+        .navigation p {
+            text-align: center;
+            font-size: 22px;
+            margin-bottom: 0px;
+            line-height: 50px;
+            cursor: pointer;
+        }
+        .navigation-item {
+            list-style: none;
+            margin-bottom: 0;
+            text-align: right;
+        }
+        .navigation-item li{
+            display: inline;
+            font-size: 20px;
+            padding:0 20px;
+            line-height: 50px;
+        }
+    </style>
+</head>
+<body>
+<div class="navigation" id="navigation">
+    <div class="am-g">
+        <div class="am-u-md-4">
+            <img src="images/logo2.png" width="50px">
+            <img src="images/logo.png" width="50px">
+        </div>
+        <div class="am-u-md-4"><p onclick="downloadSymbol()">DOWNLOAD YOUR SYMBOL</p></div>
+        <div class="am-u-md-4">
+            <ul class="navigation-item">
+                <li><a href="concept.html">Concept</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </div>
+    </div>
+</div>
+<div class="canvas">
+    <canvas id="canvas"></canvas>
+</div>
+<script src="js/particleGraph.js"></script>
+<script>
+    let particleGraph;
+    window.onload = function () {
+        particleGraph = new ParticleGraph({
+            id: "canvas",
+            canvasR: window.innerWidth / 2 + 100
+        });
+        particleGraph.startGraph(10000, spread);
+    }
+    function spread() {
+        // 设置0.5秒后开始扩散
+        setTimeout(() => {
+            particleGraph.spread(450, fadeInLogo);
+        }, 500);
+    }
+    //旋转角度6.5转为弧度
+    let theta = 6.5 * (Math.PI / 180);
+    function fadeInLogo() {
+        particleGraph.fadeInLogo(rotate);
+    }
+    function rotate() {
+        particleGraph.rotate(theta, 0, over);
+    }
+    function over() {
+        console.log("logo旋转完成");
+    }
+
+    function downloadSymbol() {
+        downLoad(particleGraph.saveAsPNG());
+    }
+    function downLoad(url){
+        var oA = document.createElement("a");
+        oA.download = 'disorder';
+        oA.href = url;
+        document.body.appendChild(oA);
+        oA.click();
+        oA.remove(); // 下载之后把创建的元素删除
+    }
+</script>
+</body>
+</html>
