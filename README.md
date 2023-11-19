@@ -156,15 +156,19 @@ Finally the pre-set Js file is called in the combined Html to enable the generat
 <img width="70%" src="https://github.com/PashaCai/MSc-Creative-Making-Advanced-Final-Project/blob/main/Picture%20for%20Readme/27.png"/>
 <p>Of course, this week also began the writing of the paper, I think that due to the previous period of study, the writing of the paper is still relatively smooth, because the articles I read before impressed me (because it is too difficult to understand, to be honest, a lot of concepts are seemingly understandable). This week, I mainly wrote the overview and introduction and organised those articles I had read before, which I need to use in my dissertation.</P>
 
+<h3>November</h3>
+<h4>Week one:</h4>
+<p>Over the course of the last week I completed the overview, introduction, and relevant research planks of my thesis, as well as integrating the reference list. So this week I got in touch with my tutor and showed her some of my successes so far, and the demo video of the device.
 
+Caroline is a very responsible tutor, and after going through it she immediately started to help me fix some of the errors on my paper, or things that were unclear, as well as actively communicating with me, which really helped me a lot. At the same time in this week I am also continuing my thesis writing, I need to unify my whole design ideas and production process, and seize the key parts, put them into the thesis, only the combination of theory and practice can bring good design.</p>
 
+<h4>Week two:</h4>
+<P>I have continued my writing this week, I am hoping to have my thesis finished by the start of the next conference so I have more time to present them, I have had some feedback from Caroline this week which has been very useful and I have made some adjustments to the thesis in line with them, as well as doing the Blog organisation and some debugging on the device, after all, it's getting close to the submission date.</P>
 
+<h4>Week Three:</h4>
+<P>I had some meetings with Caroline this week, and she gave me a lot of feedback on the direction of my thesis, as well as a lot of encouragement, which has given me the motivation to keep going as I've lost confidence several times due to the complexity of the area covered by the thesis being a bit more than I thought possible.
 
-
-
-
-
-
+I've basically finished my dissertation this week, and while I'm waiting for feedback I've been doing some organising of my Blogs, as I prefer writing them in a notebook to writing them on the web, I like the feeling of writing, so I need to consolidate them and upload them to the web now.</P>
 
 
 
