@@ -1,7 +1,11 @@
-# MSc-Creative-Making-Advanced-Final-Project
+# MSc-Creative-Making-Advanced-Final-Project-Order in Disorder
 Code_Blog_Essay for MSc Creative Making: Advanced Final Project
-
+<h2>Experiences</h2>
 To experience this web-based interactive installation, you need to download Code_Order in Disorder.
+<img width="100%" src="https://github.com/PashaCai/MSc-Creative-Making-Advanced-Final-Project/blob/main/Picture%20for%20Readme/28.png"/>
+After downloading, unzip the file and get these two folders, I recommend using the one marked in red, the other is to publish the web page to the local server to use, the purpose is to solve the problem of images can not be downloaded.
+<img width="100%" src="https://github.com/PashaCai/MSc-Creative-Making-Advanced-Final-Project/blob/main/Picture%20for%20Readme/30.png"/>
+
 
 <h2>Blog</h2>
 <h3>Introduction</h3>
