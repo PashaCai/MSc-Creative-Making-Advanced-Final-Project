@@ -10,15 +10,15 @@ Next as the dots are generated you will come to the main page, at this point you
 <img width="100%" src="https://github.com/PashaCai/MSc-Creative-Making-Advanced-Final-Project/blob/main/Picture%20for%20Readme/35.png"/>
 Finally, when the pattern produces a change, you can download a png version of the image by clicking the download button above.
 <img width="100%" src="https://github.com/PashaCai/MSc-Creative-Making-Advanced-Final-Project/blob/main/Picture%20for%20Readme/36.png"/>
-#### How can I use it on my own computer?
+### How can I use it on my own computer?
 To experience this web-based interactive installation, you need to download Code_Order in Disorder.
 <img width="100%" src="https://github.com/PashaCai/MSc-Creative-Making-Advanced-Final-Project/blob/main/Picture%20for%20Readme/28.png"/>
 After downloading, unzip the file and get these two folders, I recommend using the one marked in red, the other is to publish the web page to the local server to use, the purpose is to solve the problem of images can not be downloaded.
 <img width="100%" src="https://github.com/PashaCai/MSc-Creative-Making-Advanced-Final-Project/blob/main/Picture%20for%20Readme/30.png"/>
-<h3>Quick use</h3>
+<h3>Quick use （1）</h3>
 After opening the folder, click on the places marked in red in the picture to use it, it is better to open the browser in advance and put it to the maximum before using it.
 <img width="100%" src="https://github.com/PashaCai/MSc-Creative-Making-Advanced-Final-Project/blob/main/Picture%20for%20Readme/32.png"/>
-<h3>Accessed using a URL</h3>
+<h3>Accessed using a URL （2）</h3>
 If you want to use it in this way, please download the local server version, and at the same time, make sure that port 80 is not occupied in the command prompt through the command netstat -aon | findstr "80", then start Nginx, and finally access the web page through the URL: http://localhost.
 <img width="100%" src="https://github.com/PashaCai/MSc-Creative-Making-Advanced-Final-Project/blob/main/Picture%20for%20Readme/27.png"/>
 <img width="100%" src="https://github.com/PashaCai/MSc-Creative-Making-Advanced-Final-Project/blob/main/Picture%20for%20Readme/33.png"/>
