@@ -23,7 +23,7 @@ If you want to use it in this way, please download the local server version, and
 <img width="100%" src="https://github.com/PashaCai/MSc-Creative-Making-Advanced-Final-Project/blob/main/Picture%20for%20Readme/27.png"/>
 <img width="100%" src="https://github.com/PashaCai/MSc-Creative-Making-Advanced-Final-Project/blob/main/Picture%20for%20Readme/33.png"/>
 
-<h2>Blog</h2>
+## Blog
 <h3>Introduction</h3>
 <p>If to someone had said to me before, "You'll learn about code and physical installations later on and use those things in your art installations." I would have laughed, I always felt I was a staunch advocate of traditional media and all the graphic work I did as an undergraduate made me embrace that idea even more, I never wanted to get out of that comfort zone. But one day when I realised the limitations of traditional media, I wanted to change. I wanted my work to be more interactive with the viewer, to communicate my ideas to the greatest extent possible, which traditional media could do in part, but as I learned more and more, I felt more and more powerless, so I turned from studying design to art, and then to what was 'beautiful'. But design, art and beauty all need a vehicle, a vehicle for diversity, and so I came to CCI.
 
