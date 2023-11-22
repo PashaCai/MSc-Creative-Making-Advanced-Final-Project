@@ -191,7 +191,11 @@ Caroline is a very responsible tutor, and after going through it she immediately
 <h4>Week Three:</h4>
 <P>I had some meetings with Caroline this week, and she gave me a lot of feedback on the direction of my thesis, as well as a lot of encouragement, which has given me the motivation to keep going as I've lost confidence several times due to the complexity of the area covered by the thesis being a bit more than I thought possible.
 
-I've basically finished my dissertation this week, and while I'm waiting for feedback I've been doing some organising of my Blogs, as I prefer writing them in a notebook to writing them on the web, I like the feeling of writing, so I need to consolidate them and upload them to the web now.</P>
+I've basically finished my dissertation this week, and while I'm waiting for feedback I've been doing some organising of my Blogs, as I prefer writing them in a notebook to writing them on the web, I like the feeling of writing, so I need to consolidate them and upload them to the web now.
+
+During the week I also basically finished editing my demo video, which is generally just showing the whole concept of the design, and what it actually looks like in action.
+
+To be honest I personally like to add some background music in my videos, and this choice of background music made me think for a long time, haha, I think the music a person likes can reflect that person's taste.</P>
 
 
 
