@@ -200,11 +200,11 @@ To be honest I personally like to add some background music in my videos, and th
 <h4>Week Four:</h4>
 <p>It's the last four days before submission, and I'll be submitting all the design content on Friday of this week, and to be honest, I'm still very worried and nervous inside, wondering if all this stuff I'm doing showcases my own ideas and some of the knowledge I've learnt during my postgraduate studies.
 
-In the last few days I have adjusted some of the content of the thesis, because the tutor may be very busy I have not received the final feedback, so I can only rely on my own feelings and refer to the examples of previous students to make some changes, I hope to pass successfully.
+In the last few days I have adjusted some of the content of the thesis, because the tutor may be very busy I have not received the final feedback, so I can only rely on my own feelings and refer to the examples of previous students to make some changes, I hope to pass successfully.</p>
 
 ## Thanks for watching and thanks a lot for your company :)
 
-## If I never see you again, good morning, good afternoon and good night.</p>
+## If I never see you again, good morning, good afternoon and good night.
 
 
 
