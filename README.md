@@ -202,9 +202,9 @@ To be honest I personally like to add some background music in my videos, and th
 
 In the last few days I have adjusted some of the content of the thesis, because the tutor may be very busy I have not received the final feedback, so I can only rely on my own feelings and refer to the examples of previous students to make some changes, I hope to pass successfully.
 
-Thanks for watching and thanks a lot for your company :)
+## Thanks for watching and thanks a lot for your company :)
 
-If I never see you again, good morning, good afternoon and good night.</p>
+## If I never see you again, good morning, good afternoon and good night.</p>
 
 
 
