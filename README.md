@@ -1,5 +1,6 @@
 # MSc-Creative-Making-Advanced-Final-Project-Order in Disorder
 Code_Blog_Essay for MSc Creative Making: Advanced Final Project
+Oral project report: https://youtu.be/NYhGOTk_rZE
 ## Instructions for use
 The page has been posted on Github pages, click on the link to visit: https://pashacai.github.io/Order-in-Disorder/ 
 For your best experience, maximise your browser before opening the page!
